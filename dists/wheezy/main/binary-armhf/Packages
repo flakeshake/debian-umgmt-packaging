@@ -1,0 +1,17 @@
+Package: debian-umgmt
+Version: 0.0.1
+Architecture: all
+Maintainer: Dennis Thekumthala, <flakeshake@users.noreply.github.com>
+Installed-Size: 88
+Depends: python-pexpect, sudo, whiptail, python (>= 2.6.6-7~), python (<< 2.8)
+Priority: optional
+Section: python
+Filename: pool/main/d/debian-umgmt/debian-umgmt_0.0.1_all.deb
+Size: 7590
+SHA256: 927575946c0f05e7691d65df7819f0dde70113e0c748dfbf87af0452b420d0f3
+SHA1: 9539fc5bac9eccce167e2351ae86545bd29c03d4
+MD5sum: 9cc99cffd70feba13ec9239ef3619526
+Description: small TUI tool to manage users on Debian
+ A newt-based menu-driven tool to manage users on Debian from the console ,
+ written in Python.
+

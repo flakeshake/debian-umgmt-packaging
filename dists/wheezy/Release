@@ -1,0 +1,46 @@
+Origin: flakeshake.github.io/debian-umgmt-packaging
+Label: apt repository
+Codename: wheezy
+Date: Mon, 23 Feb 2015 16:05:10 UTC
+Architectures: armhf armel amd64 i386
+Components: main
+Description: debian-umgmt APT repository hosted on github.io
+MD5Sum:
+ 2f77c4f32a6bc974b86c4ced8e095bcf 643 main/binary-armhf/Packages
+ beaa29cdb690c394603293b8c4ac6103 455 main/binary-armhf/Packages.gz
+ 2d632bede68846fa636ac99b01f6c86e 171 main/binary-armhf/Release
+ 2f77c4f32a6bc974b86c4ced8e095bcf 643 main/binary-armel/Packages
+ beaa29cdb690c394603293b8c4ac6103 455 main/binary-armel/Packages.gz
+ b181d10524bb1589c8eacc0498b50cf1 171 main/binary-armel/Release
+ 2f77c4f32a6bc974b86c4ced8e095bcf 643 main/binary-amd64/Packages
+ beaa29cdb690c394603293b8c4ac6103 455 main/binary-amd64/Packages.gz
+ bbb9bbb93a1fa91d362c726ba6e10be7 171 main/binary-amd64/Release
+ 2f77c4f32a6bc974b86c4ced8e095bcf 643 main/binary-i386/Packages
+ beaa29cdb690c394603293b8c4ac6103 455 main/binary-i386/Packages.gz
+ 47a218d9a2f4fdd62c71248d39050cf8 170 main/binary-i386/Release
+SHA1:
+ e09689bbf04283af319b54dd695368e605ede83c 643 main/binary-armhf/Packages
+ 5aa67c5789a2fa4a98692c397d5c390fcd8b5a76 455 main/binary-armhf/Packages.gz
+ 2a90c906af4bd0ab6a5e7002cd481f480224b05e 171 main/binary-armhf/Release
+ e09689bbf04283af319b54dd695368e605ede83c 643 main/binary-armel/Packages
+ 5aa67c5789a2fa4a98692c397d5c390fcd8b5a76 455 main/binary-armel/Packages.gz
+ cf8dd7216be652a91a407da78867f90366050e51 171 main/binary-armel/Release
+ e09689bbf04283af319b54dd695368e605ede83c 643 main/binary-amd64/Packages
+ 5aa67c5789a2fa4a98692c397d5c390fcd8b5a76 455 main/binary-amd64/Packages.gz
+ 988d0dd499b356200883567860060edc051bd5e3 171 main/binary-amd64/Release
+ e09689bbf04283af319b54dd695368e605ede83c 643 main/binary-i386/Packages
+ 5aa67c5789a2fa4a98692c397d5c390fcd8b5a76 455 main/binary-i386/Packages.gz
+ d5265ddc1613469ad43bfc5b782f0eb31d9aec58 170 main/binary-i386/Release
+SHA256:
+ 0ca6d42ae52427bc5b667ebf370315e5ea9a1ad564e1c0fa875f5642134766d9 643 main/binary-armhf/Packages
+ a1bc132dceabd58f9d9bea9e94592953c5310b818ddbd39c8b02ab5590bcf39e 455 main/binary-armhf/Packages.gz
+ 2155bbd4cbe9bfe94c31be756a44005a1da2cbf47e66b2e9122a92b1039e84c4 171 main/binary-armhf/Release
+ 0ca6d42ae52427bc5b667ebf370315e5ea9a1ad564e1c0fa875f5642134766d9 643 main/binary-armel/Packages
+ a1bc132dceabd58f9d9bea9e94592953c5310b818ddbd39c8b02ab5590bcf39e 455 main/binary-armel/Packages.gz
+ 54a53866dce75bd89bf7c862f79aaea354d35394cd341d81523972aaec78ddfa 171 main/binary-armel/Release
+ 0ca6d42ae52427bc5b667ebf370315e5ea9a1ad564e1c0fa875f5642134766d9 643 main/binary-amd64/Packages
+ a1bc132dceabd58f9d9bea9e94592953c5310b818ddbd39c8b02ab5590bcf39e 455 main/binary-amd64/Packages.gz
+ e842f5399abf62e0a3e9f707cfff6f6e2c72b102040cb92985b89977569607a1 171 main/binary-amd64/Release
+ 0ca6d42ae52427bc5b667ebf370315e5ea9a1ad564e1c0fa875f5642134766d9 643 main/binary-i386/Packages
+ a1bc132dceabd58f9d9bea9e94592953c5310b818ddbd39c8b02ab5590bcf39e 455 main/binary-i386/Packages.gz
+ 2b4ba454bcc8631504e8a08579f7a995926c65a01990ce4aa15528d1bd989a4d 170 main/binary-i386/Release
